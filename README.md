@@ -1,2 +1,2 @@
 # Harjutamine
-tegemist on versioonihalduse harjutamisega GitHubis
+Saan edaspidi kasutada GitHubi oma tööde salvestamiseks.
